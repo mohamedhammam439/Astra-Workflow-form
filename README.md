@@ -1,9 +1,6 @@
 <<<<<<< HEAD
-# Astra-TicketMangment-Dashboard
-# I used AI to generate mock data.
+# Astra-WorkFlow Form
 # I borrowed some components from my previous work.
-# I intended to introduce a 300ms delay in the request to show a loading state.
-# I used React Query to cache results and improve performance.
 
 steps 
 # npm instal
